@@ -1,0 +1,31 @@
+D:\c#\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.exe.config
+D:\c#\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.exe
+D:\c#\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.pdb
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.Properties.Resources.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.csproj.GenerateResource.Cache
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.exe
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.pdb
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.app.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.home.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.Calendrier.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.UserControl1.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.month.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.days.resources
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.csprojResolveAssemblyReference.cache
+D:\c#\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.UserControl2.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.exe.config
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.exe
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\bin\Debug\elhachmi_stag.pdb
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.csprojAssemblyReference.cache
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.app.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.Calendrier.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.days.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.home.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.month.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.Properties.Resources.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.UserControl1.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.UserControl2.resources
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.csproj.GenerateResource.cache
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.csproj.CoreCompileInputs.cache
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.exe
+C:\Users\smart hp\Desktop\elhachmi_stag\elhachmi_stag\obj\Debug\elhachmi_stag.pdb
